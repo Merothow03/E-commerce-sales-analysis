@@ -36,6 +36,22 @@ The goal was to identify key revenue drivers, customer behavior patterns, geogra
 - REGENCY CAKESTAND 3 TIER was the highest revenue-generating product.
 - JUMBO BAG RED RETROSPOT ranked highly in both revenue and sales volume.
 
+### Revenue by Country
+
+![Revenue by Country](visuals/top_10_countries_by_revenue.png)
+
+### Monthly Revenue Trend
+
+![Monthly Revenue](visuals/monthly_revenue_trend.png)
+
+### Top Products by Revenue
+
+![Top Products](visuals/top_10_products_by_revenue.png)
+
+### Customer Revenue Concentration
+
+![Customer Concentration](visuals/cumulative_revenue_share_customers.png)
+
 ## Recommendations
 
 - Explore expansion opportunities in high-value international markets.
@@ -58,18 +74,4 @@ ecommerce-sales-analysis/
 
 ## Visualizations
 
-### Revenue by Country
 
-![Revenue by Country](visuals/top_10_countries_by_revenue.png)
-
-### Monthly Revenue Trend
-
-![Monthly Revenue](visuals/monthly_revenue_trend.png)
-
-### Top Products by Revenue
-
-![Top Products](visuals/top_10_products_by_revenue.png)
-
-### Customer Revenue Concentration
-
-![Customer Concentration](visuals/cumulative_revenue_share_customers.png)
