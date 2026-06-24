@@ -60,16 +60,16 @@ ecommerce-sales-analysis/
 
 ### Revenue by Country
 
-![Revenue by Country](visuals/revenue_by_country.png)
+![Revenue by Country](visuals/top_10_countries_by_revenue.png)
 
 ### Monthly Revenue Trend
 
-![Monthly Revenue](visuals/monthly_revenue.png)
+![Monthly Revenue](visuals/monthly_revenue_trend.png)
 
 ### Top Products by Revenue
 
-![Top Products](visuals/top_products.png)
+![Top Products](visuals/top_10_products_by_revenue.png)
 
 ### Customer Revenue Concentration
 
-![Customer Concentration](visuals/customer_concentration.png)
+![Customer Concentration](visuals/cumulative_revenue_share_customers.png)
