@@ -55,3 +55,21 @@ ecommerce-sales-analysis/
 ├── README.md
 
 └── insights.md
+
+## Visualizations
+
+### Revenue by Country
+
+![Revenue by Country](visuals/revenue_by_country.png)
+
+### Monthly Revenue Trend
+
+![Monthly Revenue](visuals/monthly_revenue.png)
+
+### Top Products by Revenue
+
+![Top Products](visuals/top_products.png)
+
+### Customer Revenue Concentration
+
+![Customer Concentration](visuals/customer_concentration.png)
